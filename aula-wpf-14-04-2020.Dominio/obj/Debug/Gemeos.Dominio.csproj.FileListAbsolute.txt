@@ -1,0 +1,5 @@
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Dominio\bin\Debug\aula-wpf-14-04-2020.Dominio.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Dominio\bin\Debug\aula-wpf-14-04-2020.Dominio.pdb
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Dominio\obj\Debug\Gemeos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Dominio\obj\Debug\aula-wpf-14-04-2020.Dominio.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Dominio\obj\Debug\aula-wpf-14-04-2020.Dominio.pdb

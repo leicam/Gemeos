@@ -1,0 +1,9 @@
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.pdb
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\aula-wpf-14-04-2020.Dominio.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\aula-wpf-14-04-2020.Dominio.pdb
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.csprojAssemblyReference.cache
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.csproj.CopyComplete
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.pdb

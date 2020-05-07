@@ -1,0 +1,12 @@
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\bin\Debug\aula-windows-forms-08-04-2020.exe.config
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\bin\Debug\aula-windows-forms-08-04-2020.exe
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\bin\Debug\aula-windows-forms-08-04-2020.pdb
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula-windows-forms-08-04-2020.csprojAssemblyReference.cache
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula_windows_forms_08_04_2020.Formularios.Inicial.frmTelaPrincipal.resources
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula_windows_forms_08_04_2020.Formularios.Produto.frmCadastrarProduto.resources
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula_windows_forms_08_04_2020.Formularios.Produto.frmListarProduto.resources
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula_windows_forms_08_04_2020.Properties.Resources.resources
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula-windows-forms-08-04-2020.csproj.GenerateResource.cache
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula-windows-forms-08-04-2020.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula-windows-forms-08-04-2020.exe
+C:\Users\Juliano\source\repos\aula-windows-forms-08-04-2020\aula-windows-forms-08-04-2020\obj\Debug\aula-windows-forms-08-04-2020.pdb

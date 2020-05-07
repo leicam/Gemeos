@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemeos", "aula-windows-forms-08-04-2020\Gemeos.csproj", "{B50317E7-583A-42A2-8601-88BC47F408D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Domino", "01 - Domino", "{C4459DEC-0148-44B1-A1E2-AB41C598F6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemeos.Dominio", "aula-wpf-14-04-2020.Dominio\Gemeos.Dominio.csproj", "{9B75379D-A43C-4D45-952E-28AB3A6D69A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Infraestrutura", "02 - Infraestrutura", "{DB0F9332-4B9F-4777-B32B-118EF2F72ACC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.1 - Repositorio", "02.1 - Repositorio", "{3C40E31A-CC9B-4EC4-B9C7-9DAF520C0786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemeos.Infraestrutura.Repositorio", "aula-wpf-14-04-2020.Infraestrutura.Repositorio\Gemeos.Infraestrutura.Repositorio.csproj", "{BE367095-2B26-4243-9D45-5C6BC7217CCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 - Apresentacao", "00 - Apresentacao", "{95A380E8-EEDD-45E0-BAF3-6A5D4E966A79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.2 - Inversao de Controle (IoC)", "02.2 - Inversao de Controle (IoC)", "{F98873EA-3816-4415-B70F-9AF470C7B602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemeos.Infraestrutura.IoC", "aula-wpf-14-04-2020.Infraestrutura.IoC\Gemeos.Infraestrutura.IoC.csproj", "{CDCE7A94-5035-49C1-BD65-FDAB99AA4112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemos.WPF", "Gemos.WPF\Gemos.WPF.csproj", "{6F9D2A9D-A9C4-496D-97C3-ACE514B2BC9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Teste Unitario", "03 - Teste Unitario", "{FD200ED0-6501-4AC6-AD14-B8DBBDB5251A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemeos.Teste.Dominio", "Gemeos.Teste.Dominio\Gemeos.Teste.Dominio.csproj", "{0A1AB0B8-8CD1-4A1B-A9DB-BAEB97AE0C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50317E7-583A-42A2-8601-88BC47F408D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50317E7-583A-42A2-8601-88BC47F408D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50317E7-583A-42A2-8601-88BC47F408D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50317E7-583A-42A2-8601-88BC47F408D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B75379D-A43C-4D45-952E-28AB3A6D69A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B75379D-A43C-4D45-952E-28AB3A6D69A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B75379D-A43C-4D45-952E-28AB3A6D69A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B75379D-A43C-4D45-952E-28AB3A6D69A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE367095-2B26-4243-9D45-5C6BC7217CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE367095-2B26-4243-9D45-5C6BC7217CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE367095-2B26-4243-9D45-5C6BC7217CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE367095-2B26-4243-9D45-5C6BC7217CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCE7A94-5035-49C1-BD65-FDAB99AA4112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCE7A94-5035-49C1-BD65-FDAB99AA4112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCE7A94-5035-49C1-BD65-FDAB99AA4112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCE7A94-5035-49C1-BD65-FDAB99AA4112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9D2A9D-A9C4-496D-97C3-ACE514B2BC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9D2A9D-A9C4-496D-97C3-ACE514B2BC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9D2A9D-A9C4-496D-97C3-ACE514B2BC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9D2A9D-A9C4-496D-97C3-ACE514B2BC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1AB0B8-8CD1-4A1B-A9DB-BAEB97AE0C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1AB0B8-8CD1-4A1B-A9DB-BAEB97AE0C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1AB0B8-8CD1-4A1B-A9DB-BAEB97AE0C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1AB0B8-8CD1-4A1B-A9DB-BAEB97AE0C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B50317E7-583A-42A2-8601-88BC47F408D4} = {95A380E8-EEDD-45E0-BAF3-6A5D4E966A79}
+		{9B75379D-A43C-4D45-952E-28AB3A6D69A7} = {C4459DEC-0148-44B1-A1E2-AB41C598F6EC}
+		{3C40E31A-CC9B-4EC4-B9C7-9DAF520C0786} = {DB0F9332-4B9F-4777-B32B-118EF2F72ACC}
+		{BE367095-2B26-4243-9D45-5C6BC7217CCE} = {3C40E31A-CC9B-4EC4-B9C7-9DAF520C0786}
+		{F98873EA-3816-4415-B70F-9AF470C7B602} = {DB0F9332-4B9F-4777-B32B-118EF2F72ACC}
+		{CDCE7A94-5035-49C1-BD65-FDAB99AA4112} = {F98873EA-3816-4415-B70F-9AF470C7B602}
+		{6F9D2A9D-A9C4-496D-97C3-ACE514B2BC9E} = {95A380E8-EEDD-45E0-BAF3-6A5D4E966A79}
+		{0A1AB0B8-8CD1-4A1B-A9DB-BAEB97AE0C4C} = {FD200ED0-6501-4AC6-AD14-B8DBBDB5251A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E46284E-939E-4689-9126-10668F53FA88}
+	EndGlobalSection
+EndGlobal
