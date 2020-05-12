@@ -8,7 +8,7 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MaterialDe
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\SimpleInjector.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\EntityFramework.dll
-C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MySql.Data.EntityFramework.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MySql.Data.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\Google.Protobuf.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\Zstandard.Net.dll
@@ -32,7 +32,7 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MaterialDe
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\SimpleInjector.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\EntityFramework.xml
-C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MySql.Data.EntityFramework.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\MySql.Data.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\Google.Protobuf.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\Gemos.WPF\bin\Debug\K4os.Compression.LZ4.Streams.xml

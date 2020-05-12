@@ -17,7 +17,12 @@ namespace Gemos.WPF.Connectors
             _repositorioProduto = unitOfWork?.RepositorioProduto;
         }
 
-        public void Add(Produto produto) => _repositorioProduto.AddOrUpdate(produto);
+        public void Add(Produto produto)
+        {
+            _repositorioProduto.AddOrUpdate(produto);
+            _repositorioProduto.SaveChanges();
+        }
+
         public IEnumerable<Produto> GetAll() => _repositorioProduto.GetAll();
     }
 }

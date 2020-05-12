@@ -10,7 +10,7 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestru
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\K4os.Compression.LZ4.Streams.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\K4os.Hash.xxHash.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\MySql.Data.dll
-C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\MySql.Data.EntityFramework.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\Renci.SshNet.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\System.Buffers.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\System.Memory.dll
@@ -26,7 +26,7 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestru
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\K4os.Compression.LZ4.Streams.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\MySql.Data.xml
-C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\MySql.Data.EntityFramework.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\Renci.SshNet.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\System.Buffers.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\bin\Debug\System.Memory.xml
@@ -37,3 +37,5 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestru
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\Gemeos.Infraestrutura.Repositorio.csproj.CopyComplete
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula-wpf-14-04-2020.Infraestrutura.Repositorio.pdb
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\aula_wpf_14_04_2020.Infraestrutura.Repositorio.Migrations.Versao_1_0_0_0.resources
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.Repositorio\obj\Debug\Gemeos.Infraestrutura.Repositorio.csproj.GenerateResource.cache

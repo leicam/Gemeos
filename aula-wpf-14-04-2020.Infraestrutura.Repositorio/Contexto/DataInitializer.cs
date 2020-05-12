@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 
 namespace aula_wpf_14_04_2020.Infraestrutura.Repositorio.Contexto
 {
-    internal class DataInitializer : MigrateDatabaseToLatestVersion<DataContext, Configurations> { }
+    internal class DataInitializer : MigrateDatabaseToLatestVersion<DataContext, Configuration> { }
 }

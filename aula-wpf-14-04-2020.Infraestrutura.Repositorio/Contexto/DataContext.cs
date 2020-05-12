@@ -1,5 +1,5 @@
 ﻿using aula_wpf_14_04_2020.Infraestrutura.Repositorio.Conexao;
-using MySql.Data.Entity;
+using MySql.Data.EntityFramework;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;

@@ -5,7 +5,7 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestru
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\SimpleInjector.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\EntityFramework.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\aula-wpf-14-04-2020.Dominio.dll
-C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\MySql.Data.EntityFramework.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\MySql.Data.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\Google.Protobuf.dll
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\Zstandard.Net.dll
@@ -24,7 +24,7 @@ C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestru
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\SimpleInjector.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\EntityFramework.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\aula-wpf-14-04-2020.Dominio.pdb
-C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\MySql.Data.EntityFramework.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\MySql.Data.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\Google.Protobuf.xml
 C:\Users\Juliano\source\repos\aula-wpf-14-04-2020\aula-wpf-14-04-2020.Infraestrutura.IoC\bin\Debug\K4os.Compression.LZ4.Streams.xml

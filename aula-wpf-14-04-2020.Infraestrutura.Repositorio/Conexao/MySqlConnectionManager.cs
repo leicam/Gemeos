@@ -15,8 +15,8 @@ namespace aula_wpf_14_04_2020.Infraestrutura.Repositorio.Conexao
 
         public override object GetConnection()
             => new MySqlConnection($"Server=localhost;" + 
-                $"Database=Gemeos" + 
-                $"Uid=root" +
-                $"Pwd=root");
+                $"Database=Gemeos;" + 
+                $"Uid=root;" +
+                $"Pwd=root;");
     }
 }
